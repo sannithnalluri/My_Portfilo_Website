@@ -26,7 +26,7 @@ const Hero = () => {
             </nav>
         </div>
       <div className="hero m-16 mt-24 text-start ">
-        <h3 className="text-4xl font-bold " >I'M</h3>
+        <h3 className="text-4xl font-bold " >I&aposM</h3>
         <h1 className="text-6xl font-bold ">Sannith Kumar Nalluri</h1>
         <p className="mt-4 text-xl">Full Stack Web App Developer</p>
         <p className='w-2/4 mt-16'>Transforming Ideas into Scalable, User-Centric Web Applications with a Blend of Frontend Elegance and Backend Robustness.</p>
