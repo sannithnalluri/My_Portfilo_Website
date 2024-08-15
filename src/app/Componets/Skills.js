@@ -37,33 +37,33 @@ const Skills = () => {
         <div className='webdevelopemt'>
           <h3>Web developemt</h3>
               <ul className='flex justify-center'>
-                <li className='flex m-2 p-4'><Image src={html} width={30} height={30}/><spam>HTML</spam></li>
-                <li className='flex m-2 p-4'><Image src={css} width={30} height={30}/><spam>Css</spam></li>
-                <li className='flex m-2 p-4'><Image src={reactnative} width={30} height={30}/><spam>React</spam></li>
-                <li className='flex m-2 p-4'><Image src={nextjs} width={30} height={30}/><spam>Nextjs</spam></li>
-                <li className='flex m-2 p-4'><Image  src={nodejs} width={30} height={30}/><spam>nodejs</spam></li>
+                <li className='flex m-2 p-4'><Image src={html} alt='logo1' width={30} height={30}/><spam>HTML</spam></li>
+                <li className='flex m-2 p-4'><Image src={css}   alt='logo1'width={30} height={30}/><spam>Css</spam></li>
+                <li className='flex m-2 p-4'><Image src={reactnative} alt='logo1' width={30} height={30}/><spam>React</spam></li>
+                <li className='flex m-2 p-4'><Image src={nextjs}  alt='logo1' width={30} height={30}/><spam>Nextjs</spam></li>
+                <li className='flex m-2 p-4'><Image  src={nodejs}  alt='logo1' width={30} height={30}/><spam>nodejs</spam></li>
       
               </ul>
         </div>
         <div className='webdevelopemt'>
           <h3>App developemt</h3>
               <ul className='flex justify-center'>
-                <li className='flex m-2 p-4'><Image src={reactnative} width={30} height={30}/><spam>React Native</spam></li>
-                <li className='flex m-2 p-4'><Image src={flutter} width={30} height={30}/><spam>Flutter</spam></li>
-                <li className='flex m-2 p-4'><Image src={dart} width={30} height={30}/><spam>Dart</spam></li>
-                <li className='flex m-2 p-4'><Image src={springboot} width={30} height={30}/><spam>SpringBoot</spam></li>
-                <li className='flex m-2 p-4'><Image  src={html} width={30} height={30}/><spam>HTML</spam></li>
+                <li className='flex m-2 p-4'><Image src={reactnative}   alt='logo1'width={30} height={30}/><spam>React Native</spam></li>
+                <li className='flex m-2 p-4'><Image src={flutter}  alt='logo1'width={30} height={30}/><spam>Flutter</spam></li>
+                <li className='flex m-2 p-4'><Image src={dart}  alt='logo1'width={30} height={30}/><spam>Dart</spam></li>
+                <li className='flex m-2 p-4'><Image src={springboot} alt='logo1' width={30} height={30}/><spam>SpringBoot</spam></li>
+                <li className='flex m-2 p-4'><Image  src={html}  alt='logo1'width={30} height={30}/><spam>HTML</spam></li>
       
               </ul>
         </div>
         <div className='webdevelopemt '>
           <h3>SoftWare</h3>
               <ul className='flex justify-center'>
-                <li className='flex m-2 p-4'><Image src={github} width={30} height={30}/><spam>Github</spam></li>
-                <li className='flex m-2 p-4'><Image src={Devops} width={30} height={30}/><spam>Devops</spam></li>
-                <li className='flex m-2 p-4'><Image src={reactnative} width={30} height={30}/><spam>React</spam></li>
-                <li className='flex m-2 p-4'><Image src={nextjs} width={30} height={30}/><spam>Nextjs</spam></li>
-                <li className='flex m-2 p-4'><Image  src={html} width={30} height={30}/><spam>HTML</spam></li>
+                <li className='flex m-2 p-4'><Image src={github}  alt='logo1' width={30} height={30}/><spam>Github</spam></li>
+                <li className='flex m-2 p-4'><Image src={Devops}  alt='logo1' width={30} height={30}/><spam>Devops</spam></li>
+                <li className='flex m-2 p-4'><Image src={reactnative}  alt='logo1' width={30} height={30}/><spam>React</spam></li>
+                <li className='flex m-2 p-4'><Image src={nextjs}  alt='logo1' width={30} height={30}/><spam>Nextjs</spam></li>
+                <li className='flex m-2 p-4'><Image  src={html}  alt='logo1' width={30} height={30}/><spam>HTML</spam></li>
               </ul>
         </div>
       </div>
