@@ -1,0 +1,105 @@
+.homescreen{
+    background-image: url("../Asset/backgroundimage.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.aboutimg{
+    width: 300px;
+    border-radius: 50%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-right: 20%;
+    margin-top: 10%;
+}
+.aboutimg img{
+    border-radius: 10px;
+}
+
+.heading {
+    font-size: 32px;
+    text-align: center;
+    margin-top: 2rem;
+    font-weight: 800;
+    text-decoration: underline;
+
+}
+
+.webdevelopemt ul li img{
+    margin-right: 1rem;
+}
+.webdevelopemt ul li span{
+    font-size: medium;
+    font-weight: 500;
+}
+.webdevelopemt {
+    width: 70%;
+    border-color: grey;
+    border-width: 2px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 2rem;
+    margin: 1rem 15%;
+    transition: all ease-in 0.2s;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+.webdevelopemt h3{
+    font-size: 24px;
+    color: #FFFFFF;
+    font-weight: 500;
+    text-decoration: underline;
+    text-decoration-skip:inherit;
+}
+.skills-containers{
+    justify-content: space-around;
+}
+.skills{
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+}
+
+.about-section {
+    background-color: #EDE7F6; /* Soft Lavender */
+    color: #4A148C; /* Softer Purple */
+}
+
+.project-details {
+    background-color: #2C2C54; /* Deep Navy */
+    color: #CDEFFF; /* Soft Cyan */
+}
+
+.projects {
+    background-color: #EDE7F6; /* Soft Lavender */
+    color: #4A148C; /* Softer Purple */
+}
+
+.skills {
+    background-color: #6A1B9A; /* Muted Purple */
+    color: #FFFFFF; /* White */
+}
+
+@media (max-width: 640px) {
+    .aboutimg {
+        width: 120px; /* Further reduce width for very small screens */
+    }
+
+    .heading {
+        font-size: 20px; /* Further reduce font-size for very small screens */
+    }
+
+    .webdevelopemt {
+        width: 95%; /* Further reduce width for very small screens */
+        padding: 0.5rem; /* Further reduce padding for very small screens */
+    }
+
+    .webdevelopemt h3 {
+        font-size: 18px; /* Further reduce font-size for very small screens */
+    }
+
+    .skills {
+        padding: 2rem 0.5rem; /* Adjust padding for very small screens */
+    }
+}
+
+  
